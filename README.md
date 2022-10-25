@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xX171129Xx)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=xX171129Xx)
+[![](https://komarev.com/ghpvc/?username=xX171129Xx)](https://github.com/xX171129Xx)
 
 [![Sparkline](https://stars.medv.io/xX171129Xx/xX171129Xx.svg)](https://stars.medv.io/xX171129Xx/xX171129Xx)
 <!---
