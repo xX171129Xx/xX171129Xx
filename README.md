@@ -7,7 +7,7 @@
 [![](https://komarev.com/ghpvc/?username=xX171129Xx)](https://github.com/xX171129Xx)
 [![Sparkline](https://stars.medv.io/xX171129Xx/xX171129Xx.svg)](https://stars.medv.io/xX171129Xx/xX171129Xx)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
+[![Analytics](https://ga-beacon.appspot.com/UA-246026842-1/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
 <!---
 xX171129Xx/xX171129Xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
